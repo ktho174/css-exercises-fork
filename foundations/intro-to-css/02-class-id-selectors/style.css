@@ -1,0 +1,23 @@
+/* style.css */
+
+.class {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: palevioletred;
+}
+
+.class3 {
+    font-size: 24px;
+
+}
+
+#second-element {
+    color: blue; 
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: lightseagreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
